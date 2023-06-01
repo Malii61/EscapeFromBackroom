@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BunnyGirlAnimatorOverrider
+  m_Controller: {fileID: 9100000, guid: aa2503a03b4b50b4294ec87e048f77c7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6a6de0f5c606d3a4190849aa15098b02, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 829bee1769877b847a2c8d2f3cfa9984, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aea38b4a63d4b884cbeb16cd280f85c2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 829bee1769877b847a2c8d2f3cfa9984, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4977b4f9289b6d74787bc1b4124d89e6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 829bee1769877b847a2c8d2f3cfa9984, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cd77bf7249f52c94186889b85fa72f3a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 54570eb77bde1a8459a869e86a8dd3de, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7c1c0e4bd95be940b0828a75140662b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 54570eb77bde1a8459a869e86a8dd3de, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c65eddbda548a8d4fab221af816e1655, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fd5ce0c46d59d434ba6a537d176ad141, type: 2}
