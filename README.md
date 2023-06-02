@@ -22,6 +22,7 @@ There are 4 friends trapped in a horror mansion in the game. Their aim is to per
  
 Here are some features of the game:
 * Set your character's face the way you want. Just choose a picture from your computer
+* Used Photon Engine for online services.
 * High AI enemies
 * Being able to play with friends from all over the world
 * Trying to hide from enemies while deciphering secret passwords
