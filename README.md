@@ -32,6 +32,10 @@ Here are some features of the game:
   <img src="/Images/in%20game%202.png" width="150" height="275"/>
   
  ### Gameplay
+  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Malii61/EscapeFromHorrorMansion/Images/Gameplay.mp4)
+    <video width="320" height="240" controls>
+  <source src="/Images/Gameplay.mp4" type="video/mp4">
+    </video>
   <img src="/Images/Gameplay.gif" width="200" height="375"/>
   
   
