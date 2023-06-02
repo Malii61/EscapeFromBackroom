@@ -1,4 +1,5 @@
 # Escape From Horror Mansion
+
 <a name="readme-top"></a>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -20,33 +21,28 @@ There are 4 friends trapped in a horror mansion in the game. Their aim is to per
  
  
 Here are some features of the game:
-* Set your character's face the way you want. Choose a picture from your computer and press ok and that's it.
+* Set your character's face the way you want. Just choose a picture from your computer
 * High AI enemies
 * Being able to play with friends from all over the world
 * Trying to hide from enemies while deciphering secret passwords
 * FPS experience with easy and handy controls
   
 ### Images From Game
-  <img src="/Images/main%20menu.png" width="150" height="275"/>
-  <img src="/Images/in%20game%201.png" width="150" height="275"/>
-  <img src="/Images/in%20game%202.png" width="150" height="275"/>
+  <img src="/Images/lobby.png" width="450" height="225"/>
+  <img src="/Images/in%20game%202.png" width="450" height="225"/>
   
+
  ### Gameplay
-  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Malii61/EscapeFromHorrorMansion/Images/Gameplay.mp4)
-    <video width="320" height="240" controls>
-  <source src="/Images/Gameplay.mp4" type="video/mp4">
-    </video>
-  <img src="/Images/Gameplay.gif" width="200" height="375"/>
-  
+ https://github.com/Malii61/EscapeFromHorrorMansion/assets/92629282/eaa2bd9d-fad0-42cc-840d-8549b1def3ec
   
 ### Installation
  <a>
-    If you want to try the game, you can download it from <a href="https://github.com/Malii61/SurvivalRun/blob/main/Build/SurvivalRun.apk"> this </a> link and run it on your android phone.
+    If you want to try the game, you can download it from <a href="https://github.com/Malii61/EscapeFromHorrorMansion/blob/main/Build"> this </a> link. After downloaded open the exe file to run the game.
 
 
    
    
-Project Link: [https://github.com/Malii61/SurvivalRun](https://github.com/Malii61/SurvivalRun)
+Project Link: [https://github.com/Malii61/EscapeFromHorrorMansion](https://github.com/Malii61/EscapeFromHorrorMansion)
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
