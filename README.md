@@ -25,7 +25,7 @@ Here are some features of the game:
 * Used Photon Engine for online services.
 * High AI enemies
 * Being able to play with friends from all over the world
-* Trying to hide from enemies while deciphering secret passwords
+* Hidden numbers visible only under purple light
 * FPS experience with easy and handy controls
   
 ### Images From Game
